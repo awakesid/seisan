@@ -1,4 +1,4 @@
-//this is my main program
+//this is my main program hello sanjog
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
